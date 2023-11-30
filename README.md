@@ -9,7 +9,7 @@
 <br />
 
 <p align=center>
-  <img alt="Owll75's GitHub stats" src=https://github-readme-stats.vercel.app/api?username=owll75&theme=default)](https://github.com/anuraghazra/github-readme-stats />
+<!--   <img alt="Owll75's GitHub stats" src=https://github-readme-stats.vercel.app/api?username=owll75&theme=default)](https://github.com/anuraghazra/github-readme-stats /> -->
   <img alt="Top Langs" src=https://github-readme-stats.vercel.app/api/top-langs/?username=owll75&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats />
 </p>
 
